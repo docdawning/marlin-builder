@@ -1,5 +1,5 @@
 module.exports = {
-    //board_env: "STM32F103RE_creality",
+    board_env: "STM32G0B1RE_manta_btt",
     active: true,
     meta: {
         stable_name: "mrsprinter-e3ez-{{marlin_version}}-{{uid}}",
